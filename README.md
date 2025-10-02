@@ -40,19 +40,22 @@ The converter uses a greedy algorithm based on a lookup table of Roman numeral v
 M (1000), CM (900), D (500), CD (400), C (100), XC (90),
 L (50), XL (40), X (10), IX (9), V (5), IV (4), I (1)
 The algorithm iteratively subtracts the largest possible value and appends the corresponding Roman numeral until the input number reaches zero.
+
+
 Project Structure
 roman-numeral-converter/
+
 ├── index.html      # HTML structure
+
 ├── styles.css      # Styling and layout
+
 ├── script.js       # Conversion logic and validation
+
 └── README.md       # Project documentation
 Customization
-Colors and styling can be modified in styles.css:
-
-Primary colors: #8b4513 (saddle brown), #daa520 (goldenrod)
-Background opacity: adjust opacity property on #bg-video
-Font family: Times New Roman for classical aesthetic
+Colors and styling can be modified in styles.css
 
 Contributions are welcome.
+
 
 
