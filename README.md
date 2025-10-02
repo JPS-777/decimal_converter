@@ -31,10 +31,6 @@ Enter a number between 1 and 3999 in the input field
 Click the "CONVERTIR" button or press Enter
 The Roman numeral equivalent will be displayed below
 
-Conversion Examples
-ArabicRoman9IX16XVI649DCXLIX1023MXXIII3999MMMCMXCIX
-Validation Rules
-
 Empty input: "Please enter a valid number"
 Numbers less than 1: "Please enter a number greater than or equal to 1"
 Numbers 4000 or greater: "Please enter a number less than or equal to 3999"
@@ -58,4 +54,5 @@ Background opacity: adjust opacity property on #bg-video
 Font family: Times New Roman for classical aesthetic
 
 Contributions are welcome.
+
 
