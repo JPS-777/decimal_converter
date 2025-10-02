@@ -1,4 +1,3 @@
-Description
 This converter implements the traditional Roman numeral system using a greedy algorithm approach. Users can input any number between 1 and 3999 and instantly receive the corresponding Roman numeral representation. The application includes comprehensive input validation to ensure only valid numbers are processed, with clear error messages guiding the user when invalid inputs are detected.
 The interface combines functionality with aesthetics, featuring a clean, centered design overlaid on a subtle Colosseum background image that evokes the historical context of Roman numerals without compromising readability.
 Features
@@ -59,3 +58,4 @@ Background opacity: adjust opacity property on #bg-video
 Font family: Times New Roman for classical aesthetic
 
 Contributions are welcome.
+
